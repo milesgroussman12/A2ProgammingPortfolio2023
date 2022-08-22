@@ -1,4 +1,4 @@
-## Welcome to GitHub Pages
+## Welcome to Miles Groussman's 2023 Computer Programming Page!
 
 You can use the [editor on GitHub](https://github.com/milesgroussman12/A2ProgammingPortfolio2023/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
 
